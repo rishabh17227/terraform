@@ -14,5 +14,3 @@ variable "ec2_name" {
 }
 
 
-variable "ec2_security_group" {
-}
